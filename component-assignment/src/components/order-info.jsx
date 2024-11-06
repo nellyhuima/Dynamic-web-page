@@ -1,4 +1,5 @@
-/* product selection */
-/* quantity selection */
-/* quantity negative check */
+/* order info */
+/* calculations */
 /* styling */
+
+

@@ -7,8 +7,8 @@
 function Header() {
 
     return(
-        <div class="Header">
-            <img src="/grass-7487114_1280.jpg" alt="sunset" class="round-image"></img>
+        <div className="Header">
+            <img src="/grass-7487114_1280.jpg" alt="sunset" className="round-image"></img>
             <h1>Welcome to product page!</h1>
         </div>
     )
