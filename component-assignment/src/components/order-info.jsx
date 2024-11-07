@@ -3,3 +3,7 @@
 /* styling */
 
 
+function OrderInfo() {
+
+}
+

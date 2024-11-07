@@ -1,0 +1,10 @@
+.number {
+    display: flex;
+    align-items: center;
+}
+
+#quantity {
+    display: flex;
+    width: 15px;
+    justify-content: center;
+}
